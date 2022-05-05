@@ -18,7 +18,7 @@
 <a href="https://www.instagram.com/satwik_pal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Satwik Pal" height="30" width="30" /></a>&nbsp;&nbsp;
 <a href="https://fb.com/satwik.pal.75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satwik.pal.75" height="30" width="30" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/satwik-pal-83a78b214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Satwik Pal" height="30" width="30" /></a>&nbsp;&nbsp;
-<a href="https://github.com/Satwik-pal-git" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" alt="satwik pal" height="30" width="30" /></a>
+<a href="https://github.com/Satwik-pal-git" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="satwik pal" height="30" width="30" /></a>
 </p>
 <br /> 
 
