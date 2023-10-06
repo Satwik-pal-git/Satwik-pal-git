@@ -53,8 +53,8 @@
 <h2><b>⭐Github Stats</b></h2> 
 
 <a align="center" href="https://github.com/Satwik-pal-git/Satwik-pal-git">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Satwik-pal-git&show_icons=true&theme=algolia&repo=Satwik-pal-git" />
-  <br>
-  <br>
+<!--   <img  src="https://github-readme-stats.vercel.app/api?username=Satwik-pal-git&show_icons=true&theme=algolia&repo=Satwik-pal-git" /> -->
+<!--   <br>
+  <br> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satwik-pal-git"/>
  </p>
